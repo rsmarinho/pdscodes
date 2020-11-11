@@ -28,6 +28,7 @@ All home works are jupyter notebooks. These files can be opened using google-col
 - [TP02](https://github.com/rsmarinho/pdscodes/blob/master/TP02.ipynb)
 - [TP04](https://github.com/rsmarinho/pdscodes/blob/master/TP04.ipynb)
 - [TP05](https://github.com/rsmarinho/pdscodes/blob/master/TP05.ipynb)
+- [TP07](https://github.com/rsmarinho/pdscodes/blob/master/TP07.ipynb)
 
 ---
 
@@ -36,3 +37,5 @@ All home works are jupyter notebooks. These files can be opened using google-col
 - [barbara](https://github.com/rsmarinho/pdscodes/blob/master/barbara.png): Image (png) file used in some examples
 - [paganini](https://github.com/rsmarinho/pdscodes/blob/master/caprice24mono.wav): Audio wave file used in some examples (from wikimedia)
 - [table notes](https://github.com/rsmarinho/pdscodes/blob/master/notas_musicais.jpg): Image containing the frequencies of musical tones. Don't know the author.
+- [transmission](https://github.com/rsmarinho/pdscodes/blob/master/transmission.wav): Recorded example used in TP07
+

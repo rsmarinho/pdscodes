@@ -24,12 +24,12 @@ All (almost) codes are in Python3 language.
 ## Homework (Trabalhos Práticos)
 All home works are jupyter notebooks. These files can be opened using google-colab.
 
-- [TP01](https://github.com/rsmarinho/pdscodes/blob/master/TP01.ipynb)
-- [TP02](https://github.com/rsmarinho/pdscodes/blob/master/TP02.ipynb)
-- [TP04](https://github.com/rsmarinho/pdscodes/blob/master/TP04.ipynb)
-- [TP05](https://github.com/rsmarinho/pdscodes/blob/master/TP05.ipynb)
-- [TP07](https://github.com/rsmarinho/pdscodes/blob/master/TP07.ipynb)
-- [TP08](https://github.com/rsmarinho/pdscodes/blob/master/TP078.ipynb)
+- [TP01](https://github.com/rsmarinho/pdscodes/blob/master/TP01.ipynb) - Convolução linear de duas dimensões.
+- [TP02](https://github.com/rsmarinho/pdscodes/blob/master/TP02.ipynb) - Efeitos de operações lineares em sinais de audio
+- [TP04](https://github.com/rsmarinho/pdscodes/blob/master/TP04.ipynb) - Fuções de Janelamento
+- [TP05](https://github.com/rsmarinho/pdscodes/blob/master/TP05.ipynb) - Espectrograma
+- [TP07](https://github.com/rsmarinho/pdscodes/blob/master/TP07.ipynb) - Aplicações de modulação digital em sistemas de comunicação
+- [TP08](https://github.com/rsmarinho/pdscodes/blob/master/TP08.ipynb) - Processamento e Compactação de imagem
 ---
 
 ## Auxiliary files

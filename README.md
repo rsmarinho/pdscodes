@@ -4,6 +4,17 @@ Code snippets and notebooks used in PDS classes.
 
 All (almost) codes are in Python3 language.
 
+If you want to run the examples locally, I recomend you to use an python environment as follows:
+
+### On linux
+1. Create and enter virtual environment
+  * `virtualenv --clear env`
+  * `source env/bin/activate`
+2. Install adam requirements to the virtual env
+  * `pip install -r requirements.txt
+3. Install plugin requirements to the virtual env
+  * ufpbots example: `pip install -r ufpbots/requirements.txt`
+
 ---
 
 ## Sampling and quantization

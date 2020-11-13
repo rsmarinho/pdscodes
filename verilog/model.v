@@ -10,6 +10,6 @@ module model(
 	output [7:0] out1;
 	
 	// implementation	
-	assign out1 = ~in1;
+	assign out1 = in1;
 
 endmodule

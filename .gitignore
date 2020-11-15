@@ -1,1 +1,6 @@
 env/
+verilog/a.out
+verilog/data.dat
+verilog/filtered_data.dat
+verilog/output.wav
+verilog/test.vcd

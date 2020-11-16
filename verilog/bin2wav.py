@@ -6,7 +6,8 @@ from scipy.io.wavfile import write as wav_write
 audio = np.empty((0,1), dtype = np.uint8)
 with open(sys.argv[1]) as f:
     for i, line in enumerate(f):
-        if not i:
+        if i == 0 or i == 1:
+            print(i)
             continue
         l = list(line)
         l.remove('\n')

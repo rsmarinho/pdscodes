@@ -51,3 +51,6 @@ All home works are jupyter notebooks. These files can be opened using google-col
 - [transmission](https://github.com/rsmarinho/pdscodes/blob/master/transmission.wav): Recorded example used in TP07
 - [lena](https://github.com/rsmarinho/pdscodes/blob/master/lena512.png): Image (png) file used in TP08
 
+## TODO
+- Melhorar exemplo operations.py. Exemplo não está tão claro como deveria estar (pouco eficiente).
+

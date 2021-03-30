@@ -37,6 +37,7 @@ All home works are jupyter notebooks. These files can be opened using google-col
 
 - [TP01](https://github.com/rsmarinho/pdscodes/blob/master/TP01.ipynb) - Convolução linear de duas dimensões.
 - [TP02](https://github.com/rsmarinho/pdscodes/blob/master/TP02.ipynb) - Efeitos de operações lineares em sinais de audio
+- [TP03](https://github.com/rsmarinho/pdscodes/blob/master/TP03.ipynb) - Quantização Lei-A e Lei-u
 - [TP04](https://github.com/rsmarinho/pdscodes/blob/master/TP04.ipynb) - Fuções de Janelamento
 - [TP05](https://github.com/rsmarinho/pdscodes/blob/master/TP05.ipynb) - Espectrograma
 - [TP07](https://github.com/rsmarinho/pdscodes/blob/master/TP07.ipynb) - Aplicações de modulação digital em sistemas de comunicação

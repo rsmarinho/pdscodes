@@ -55,4 +55,5 @@ All home works are jupyter notebooks. These files can be opened using google-col
 ## TODO
 - Melhorar exemplo operations.py. Exemplo não está tão claro como deveria estar (pouco eficiente na apresentacao).
 - TP02.ipynb: Adicionar/melhorar os comentários e comandos de questões.
+- Colocar as aulas e arquivos utilizados por aula no README
 

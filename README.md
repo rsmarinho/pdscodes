@@ -27,7 +27,7 @@ If you want to run the examples locally, I recomend you to use an python environ
 - [step](https://github.com/rsmarinho/pdscodes/blob/master/step.py): Step signal examples
 - [operations](https://github.com/rsmarinho/pdscodes/blob/master/operations.py): Signal operations examples
 - [convolution](https://github.com/rsmarinho/pdscodes/blob/master/convolution.py): Convolution function example
-- [digital filters](https://github.com/rsmarinho/pdscodes/blob/master/filtro_digital.ipynb): Convolution function example
+- [digital filters](https://github.com/rsmarinho/pdscodes/blob/master/filtro_digital.ipynb): Digital Filters notebook explanation
 
 ## Discrete Fourier
 - [dft](https://github.com/rsmarinho/pdscodes/blob/master/dft.ipynb) (jupyter notebook): Discrete Fourier Transform notebook

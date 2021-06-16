@@ -42,8 +42,8 @@ All home works are jupyter notebooks. These files can be opened using google-col
 - [TP04](https://github.com/rsmarinho/pdscodes/blob/master/TP04.ipynb) - Fuções de Janelamento
 - [TP05](https://github.com/rsmarinho/pdscodes/blob/master/TP05.ipynb) - Espectrograma
 - [TP07](https://github.com/rsmarinho/pdscodes/blob/master/TP07.ipynb) - Processamento e Compactação de imagem
-- [TP08](https://github.com/rsmarinho/pdscodes/blob/master/TP08.ipynb) - Filtragem FIR (IIR - talvez)
-- [TP09](https://github.com/rsmarinho/pdscodes/blob/master/TP09.ipynb) - Comunicação Digital
+- [TP08](https://github.com/rsmarinho/pdscodes/blob/master/TP08.ipynb) - Comunicação Digital
+- [TP09](https://github.com/rsmarinho/pdscodes/blob/master/TP09.ipynb) - Filtragem FIR (IIR - talvez)
 ---
 
 ## Auxiliary files
